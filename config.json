@@ -247,13 +247,12 @@
         "ng_cosmetic_reply": "DON'T USE THIS SKIN!!!!!!!! \n Dieser skin wird gekickt!!!!!!!"
     },
     "discord": {
-        "enabled": true,
-        "token": "NzYxODc5NzI1Mzg3NTQ2NjM0.X3hByQ.pxQZKf2iLW8tO1am6bdN58DG7s4",
+        "enabled": false,
+        "token": "",
         "owner": [
             444966610353127434
         ],
         "channels": [
-            "╚commands"
         ],
         "status": "{all_friend_count} Friends",
         "status_type": "watching",
@@ -307,7 +306,7 @@
     "hide-email": true,
     "hide-token": true,
     "hide-webhook": true,
-    "webhook": "https://discord.com/api/webhooks/766721789136470026/72hNlYfX2a586J_-SVdheOHo2QXHtmhTdOGhayCH98WGxx7UPlZmxpERnsB4qlpJywtS",
+    "webhook": "",
     "caseinsensitive": true,
     "loglevel": "normal",
     "debug": false,
